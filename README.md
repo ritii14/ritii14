@@ -6,8 +6,6 @@ I'm passionate about fields like Artificial Intelligence and Human Computer Inte
 
 
 ### 📫 How to Reach Me  
-- 💌 Email: riti.iitd.cse@gmail.com
-- 💼 LinkedIn: <a href="www.linkedin.com/in/ritiverma">
-    Riti Verma
-  </a>
+- 💌 Email: [riti.iitd.cse@gmail.com](mailto:riti.iitd.cse@gmail.com)  
+- 💼 LinkedIn: [Riti Verma](https://www.linkedin.com/in/ritiverma)  
 
